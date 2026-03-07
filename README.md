@@ -1,7 +1,5 @@
 ## Rofi click-to-close for Hyprland
 
-In progress, adding support for sway
-
 This script adds behavior to support closing rofi when clicking outside the menu. This works by monitoring Hyprland layers and closing Rofi when an external click is detected.  
 
 How it works:
